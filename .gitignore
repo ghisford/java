@@ -1,5 +1,6 @@
-# Compiled class file
+ # Compiled class file
 *.class
+Calcu.java
 
 # Log file
 *.log
